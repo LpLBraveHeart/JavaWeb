@@ -9,6 +9,11 @@ import javax.servlet.ServletException;
 import javax.servlet.ServletRequest;
 import javax.servlet.ServletResponse;
 
+/**
+ *  2019.1.7
+ *
+ */
+
 public class SecurityFilter implements Filter  {
 	
 	@Override
